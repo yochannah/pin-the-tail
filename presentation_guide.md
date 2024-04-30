@@ -4,7 +4,7 @@ Visualising data that changes over time can result in complex graphs. While we h
 ## Single-answer questions
 Throughout this section, we present data from all three time points side by side. Tables summarising respondent responses to radio-button single-answer questions usually consist of an answer column, and three time-point columns, as illustrated below:
 
-![data table example](img/data_table_example.png.png)
+![data table example](img/data_table_example.png)
 
 
 *Example data table to illustrate data presentation format. *
